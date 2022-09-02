@@ -1,1 +1,1 @@
-a script that will play the StarWars IV episode in the terminal.
+a script that changes the owner and the group owner
